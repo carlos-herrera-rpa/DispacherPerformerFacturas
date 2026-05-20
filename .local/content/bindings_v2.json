@@ -1,0 +1,27 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "activityDisplayName": "Add Queue Item",
+      "activityId": "AddQueueItem_1",
+      "resource": "queue",
+      "key": "carlosregistroapp@gmail.com's workspace.FacturasQueue",
+      "id": "queuecarlosregistroapp@gmail.com's workspace.FacturasQueuecarlosregistroapp@gmail.com's workspaceFalseFacturasQueueFalse",
+      "value": {
+        "folderPath": {
+          "defaultValue": "carlosregistroapp@gmail.com's workspace",
+          "isExpression": false,
+          "displayName": "Folder Path"
+        },
+        "name": {
+          "defaultValue": "FacturasQueue",
+          "isExpression": false,
+          "displayName": "Queue name"
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.2"
+      }
+    }
+  ]
+}
